@@ -19,7 +19,6 @@ public class LinkedList {
 
 		if (head == null) {
 			head = nuevo;
-			return;
 		}
 
 		Node recorrido = head;
